@@ -165,4 +165,4 @@ function game(){
     } 
     h1score.textContent = score_player;
     scorepole.appendChild(h1score);
-}
+} 
